@@ -34,7 +34,8 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 • Built using: HTML, CSS, JavaScript, Bootstrap, and basic React
 
-\href{https://github.com/Dasari-Saniya/VehicleMart}{(Project Link)}
+🔗 [Project Link](https://github.com/Dasari-Saniya/VehicleMart)
+
 
 
 
