@@ -6,5 +6,5 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 ---
 
-##🚀 **Skills & Interests**:
+## 🚀 **Skills & Interests**:
 
