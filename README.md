@@ -59,6 +59,16 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 ---
 
+## 📬 Connect with Me:
+
+• 📧 **Email:** [saniyadasari645@gmail.com](mailto:saniyadasari645@gmail.com)
+
+• 💼 **LinkedIn:** [dasari-saniya](https://www.linkedin.com/in/dasari-saniya)
+
+• 🏗️ **GitHub:** [Dasari-Saniya](https://github.com/Dasari-Saniya)
+
+---
+
 
 
 
