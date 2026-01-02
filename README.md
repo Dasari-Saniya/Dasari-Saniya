@@ -8,23 +8,23 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 ## 🚀 Skills & Interests:
 
-• 💻 Programming Languages: Python, C, C++, Java (basic knowledge)
+• 💻 **Programming Languages:** Python, C, C++, Java (basic knowledge)
 
-• 📚 Frameworks/Libraries: Basic HTML, CSS, JavaScript
+• 📚 **Frameworks/Libraries:** Basic HTML, CSS, JavaScript
 
-• 🗄️ Databases: MySQL, SQL
+• 🗄️ **Databases:** MySQL, SQL
 
-• 🛠️ Developer Tools: Git/GitHub, Google Colab, VS Code, Anaconda
+• 🛠️ **Developer Tools:** Git/GitHub, Google Colab, VS Code, Anaconda
 
-• 🎓 Academic Coursework: Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS
+• 🎓 **Academic Coursework:** Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS
 
-• 🎯 Interests: Coding & Exploring New Tools, Continuous Learning, Solving Programming Challenges, Hackathons
+• 🎯 **Interests:** Coding & Exploring New Tools, Continuous Learning, Solving Programming Challenges, Hackathons
 
 ---
 
 ## 🏆 Projects:
 
-🚗 **VehicleMart**
+### 🚗 **VehicleMart**
 
 • Second-hand vehicle e-commerce website for buying and selling vehicles online
 
@@ -37,7 +37,7 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 🔗 [Project Link](https://github.com/Dasari-Saniya/VehicleMart)
 
 
- 📄 **Certificate Name Checker**
+ ### 📄 **Certificate Name Checker**
 
 • Validates user-entered names in PDF certificates directly in the browser  
 
@@ -47,7 +47,7 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 🔗 [Project Link](https://github.com/Dasari-Saniya/Certificate-Name-Checker)
 
-🌱 **GreenCart**
+### 🌱 **GreenCart**
 
 • Eco-friendly browser-based shopping assistant promoting sustainable consumption 
 
