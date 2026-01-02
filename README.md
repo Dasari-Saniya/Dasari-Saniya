@@ -24,7 +24,7 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 ## 🏆 Projects:
 
-**🚗 VehicleMart**
+🚗 **VehicleMart**
 
 • Second-hand vehicle e-commerce website for buying and selling vehicles online
 
@@ -36,7 +36,7 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 🔗 [Project Link](https://github.com/Dasari-Saniya/VehicleMart)
 
-## 📄 **Certificate Name Checker**
+ 📄 **Certificate Name Checker**
 
 • Validates user-entered names in PDF certificates directly in the browser  
 
