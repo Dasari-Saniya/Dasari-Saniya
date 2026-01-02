@@ -18,13 +18,13 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 • 🎓 Academic Coursework: Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS
 
-• 🎯 Interests:Coding & Exploring New Tools, Continuous Learning, Solving Programming Challenges, Hackathons
+• 🎯 Interests: Coding & Exploring New Tools, Continuous Learning, Solving Programming Challenges, Hackathons
 
 ---
 
 ## 🏆 Projects:
 
-** 🚗 VehicleMart
+**🚗 VehicleMart**
 
 • Second-hand vehicle e-commerce website for buying and selling vehicles online
 
@@ -33,6 +33,8 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 • Interactive UI with tabs, carousel, and categorized vehicle listings
 
 • Built using: HTML, CSS, JavaScript, Bootstrap, and basic React
+
+\href{https://github.com/Dasari-Saniya/VehicleMart}{(Project Link)}
 
 
 
