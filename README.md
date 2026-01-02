@@ -32,9 +32,21 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 • Interactive UI with tabs, carousel, and categorized vehicle listings
 
-• Built using: HTML, CSS, JavaScript, Bootstrap, and basic React
+• **Built using:** HTML, CSS, JavaScript, Bootstrap, and basic React
 
 🔗 [Project Link](https://github.com/Dasari-Saniya/VehicleMart)
+
+## 📄 **Certificate Name Checker**
+
+• Validates user-entered names in PDF certificates directly in the browser  
+
+• Processes text-based PDFs securely without server uploads  
+
+• **Built using:** HTML, CSS, JavaScript, pdf.js 
+
+🔗 [Project Link](https://github.com/Dasari-Saniya/Certificate-Name-Checker)
+
+
 
 
 
