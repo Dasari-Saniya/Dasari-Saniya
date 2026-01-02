@@ -69,6 +69,9 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 ---
 
+## 💡 Feedback Welcome!
+
+I'm still learning and growing as a developer, so I welcome constructive feedback and suggestions. Feel free to reach out on any platform above—let's connect! 
 
 
 
