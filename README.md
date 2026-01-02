@@ -36,6 +36,7 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 🔗 [Project Link](https://github.com/Dasari-Saniya/VehicleMart)
 
+
  📄 **Certificate Name Checker**
 
 • Validates user-entered names in PDF certificates directly in the browser  
@@ -45,6 +46,19 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 • **Built using:** HTML, CSS, JavaScript, pdf.js 
 
 🔗 [Project Link](https://github.com/Dasari-Saniya/Certificate-Name-Checker)
+
+🌱 **GreenCart**
+
+• Eco-friendly browser-based shopping assistant promoting sustainable consumption 
+
+• Evaluates product sustainability and suggests greener alternatives with reward points 
+
+• **Built using:** HTML, CSS, JavaScript  
+
+🔗 [Project Link](https://github.com/Dasari-Saniya/GreenCart)
+
+---
+
 
 
 
