@@ -2,15 +2,15 @@
 
 ## 📌 **About Me**
 
-Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** student at **Aditya University** with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let’s dive in! 🚀
+Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** student at **Aditya University** with a passion for coding and crafting innovative solutions. This profile showcases my projects, technical skills, and continuous learning journey in full-stack development and AI applications. Let’s dive in! 🚀
 
 ---
 
 ## 🚀 Skills & Interests:
 
-• 💻 **Programming Languages:** Python, C, C++, Java (basic knowledge)
+• 💻 **Programming Languages:** Python, C, C++, Java
 
-• 📚 **Frameworks/Libraries:** Basic HTML, CSS, JavaScript
+• 📚 **Frameworks/Libraries:** HTML5, CSS3, JavaScript (ES6+)
 
 • 🗄️ **Databases:** MySQL, SQL
 
@@ -24,7 +24,7 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 ## 🏆 Projects:
 
-### 🚗 **VehicleMart**
+### **VehicleMart**
 
 • Second-hand vehicle e-commerce website for buying and selling vehicles online
 
@@ -37,7 +37,7 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 🔗 [Project Link](https://github.com/Dasari-Saniya/VehicleMart)
 
 
- ### 📄 **Certificate Name Checker**
+ ### **Certificate Name Checker**
 
 • Validates user-entered names in PDF certificates directly in the browser  
 
@@ -47,7 +47,7 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 🔗 [Project Link](https://github.com/Dasari-Saniya/Certificate-Name-Checker)
 
-### 🌱 **GreenCart**
+### **GreenCart**
 
 • Eco-friendly browser-based shopping assistant promoting sustainable consumption 
 
@@ -59,7 +59,7 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 ---
 
-## 📬 Connect with Me:
+## Connect with Me:
 
 • 📧 **Email:** [saniyadasari645@gmail.com](mailto:saniyadasari645@gmail.com)
 
@@ -71,7 +71,7 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 ## 💡 Feedback Welcome!
 
-I'm still learning and growing as a developer, so I welcome constructive feedback and suggestions. Feel free to reach out on any platform above—let's connect! 
+Feel free to reach out on any platform above—let's connect! 
 
 
 
