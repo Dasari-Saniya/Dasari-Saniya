@@ -10,11 +10,11 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 • 💻 **Programming Languages:** Python, C, C++, Java
 
-• 📚 **Frameworks/Libraries:** HTML5, CSS3, JavaScript (ES6+)
+• 📚 **Frameworks/Libraries:** HTML5, CSS3, JavaScript (ES6+), Next.js, Tailwind CSS, React.js
 
-• 🗄️ **Databases:** MySQL, SQL
+• 🗄️ **Databases:** MySQL
 
-• 🛠️ **Developer Tools:** Git/GitHub, Google Colab, VS Code, Anaconda
+• 🛠️ **Developer Tools:** Git/GitHub, VS Code, Postman, Jupyter Notebook
 
 • 🎓 **Academic Coursework:** Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS
 
@@ -24,6 +24,39 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 ## 🏆 Projects:
 
+### **UniFind - – College Discovery & Comparison Platform**
+
+• Developed a scalable full-stack college discovery and comparison platform using Next.js, TypeScript, and Tailwind CSS.
+
+• Implemented dynamic routing and responsive UI design to help students search, compare, and explore colleges efficiently.
+
+• Integrated REST APIs and modern frontend practices to deliver seamless user experience and interactive navigation.
+
+🔗 [Live Demo](https://college-discovery-platform-chi.vercel.app/)
+
+
+### **Random Quote Generator**
+
+• Built a dynamic quote generator web application using HTML, CSS, JavaScript, and REST APIs.
+
+• Implemented API integration using fetch() and async/await to retrieve and display random quotes dynamically.
+
+• Improved understanding of asynchronous JavaScript, JSON handling, and DOM manipulation.
+
+🔗 [Live Demo](https://random-quote-generator-pink-gamma.vercel.app/)
+
+
+ ### **Certificate Name Checker**
+
+• Developed a Certificate Name Checker web application using HTML, CSS, JavaScript, and pdf.js.
+
+• Implemented browser-based PDF text extraction to validate user-entered names securely without server uploads.
+
+• Focused on lightweight performance, privacy, and responsive user interaction.
+
+🔗 [Project Link](https://github.com/Dasari-Saniya/Certificate-Name-Checker)
+
+
 ### **VehicleMart**
 
 • Second-hand vehicle e-commerce website for buying and selling vehicles online
@@ -32,28 +65,14 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 • Interactive UI with tabs, carousel, and categorized vehicle listings
 
-• **Built using:** HTML, CSS, JavaScript, Bootstrap, and basic React
-
 🔗 [Project Link](https://github.com/Dasari-Saniya/VehicleMart)
 
-
- ### **Certificate Name Checker**
-
-• Validates user-entered names in PDF certificates directly in the browser  
-
-• Processes text-based PDFs securely without server uploads  
-
-• **Built using:** HTML, CSS, JavaScript, pdf.js 
-
-🔗 [Project Link](https://github.com/Dasari-Saniya/Certificate-Name-Checker)
 
 ### **GreenCart**
 
 • Eco-friendly browser-based shopping assistant promoting sustainable consumption 
 
 • Evaluates product sustainability and suggests greener alternatives with reward points 
-
-• **Built using:** HTML, CSS, JavaScript  
 
 🔗 [Project Link](https://github.com/Dasari-Saniya/GreenCart)
 
