@@ -92,8 +92,6 @@ I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** student at 
 
 ## 💡 Let's Connect!
 
-## 📬 Let's Connect
-
 Feel free to connect with me for collaboration, project discussions, and learning opportunities in full-stack development and AI applications.
 
 
