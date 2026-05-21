@@ -2,7 +2,7 @@
 
 ## 📌 **About Me**
 
-Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** student at **Aditya University** with a passion for coding and crafting innovative solutions. This profile showcases my projects, technical skills, and continuous learning journey in full-stack development and AI applications. Let’s dive in! 🚀
+I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** student at **Aditya University** with a passion for coding and crafting innovative solutions. This profile showcases my projects, technical skills, and continuous learning journey in full-stack development and AI applications. Let’s dive in! 🚀
 
 ---
 
@@ -24,7 +24,7 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 ## 🏆 Projects:
 
-### **UniFind - – College Discovery & Comparison Platform**
+### **UniFind - College Discovery & Comparison Platform**
 
 • Developed a scalable full-stack college discovery and comparison platform using Next.js, TypeScript, and Tailwind CSS.
 
@@ -59,20 +59,22 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 ### **VehicleMart**
 
-• Second-hand vehicle e-commerce website for buying and selling vehicles online
+• Developed a responsive second-hand vehicle marketplace platform using HTML, CSS, JavaScript, and Bootstrap.
 
-• Responsive and cross-browser compatible design
+• Designed categorized vehicle listings, interactive UI components, and mobile-friendly layouts for improved usability.
 
-• Interactive UI with tabs, carousel, and categorized vehicle listings
+• Focused on responsive design and smooth user interaction across multiple devices and browsers.
 
 🔗 [Project Link](https://github.com/Dasari-Saniya/VehicleMart)
 
 
 ### **GreenCart**
 
-• Eco-friendly browser-based shopping assistant promoting sustainable consumption 
+• Built an eco-friendly shopping assistant web application promoting sustainable purchasing decisions.
 
-• Evaluates product sustainability and suggests greener alternatives with reward points 
+• Implemented product sustainability evaluation and greener alternative suggestions with reward-based interaction.
+
+• Developed using HTML, CSS, and JavaScript with focus on awareness-driven user experience.
 
 🔗 [Project Link](https://github.com/Dasari-Saniya/GreenCart)
 
@@ -88,9 +90,11 @@ Hey there! I'm **Dasari Saniya**, a **3rd-year Computer Science & Engineering** 
 
 ---
 
-## 💡 Feedback Welcome!
+## 💡 Let's Connect!
 
-Feel free to reach out on any platform above—let's connect! 
+## 📬 Let's Connect
+
+Feel free to connect with me for collaboration, project discussions, and learning opportunities in full-stack development and AI applications.
 
 
 
