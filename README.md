@@ -34,61 +34,45 @@ I enjoy transforming ideas into impactful software products—from AI-powered as
 
 ---
 
-## 🏆 Projects:
+# 🌟 Featured Projects
 
-### **UniFind - College Discovery & Comparison Platform**
+## 🛰️ Transformer-Based Satellite Image Change Detection
 
-• Developed a scalable full-stack college discovery and comparison platform using Next.js, TypeScript, and Tailwind CSS.
+Developing an **Encoder–Decoder Transformer** model using **PyTorch** for accurate satellite image change detection and land-cover analysis.
 
-• Implemented dynamic routing and responsive UI design to help students search, compare, and explore colleges efficiently.
+**Tech:** PyTorch • Deep Learning • Computer Vision • Python
 
-• Integrated REST APIs and modern frontend practices to deliver seamless user experience and interactive navigation.
+---
 
-🔗 [Live Demo](https://college-discovery-platform-chi.vercel.app/)
+## 🏛️ Saarthi AI
 
+An AI-powered government application assistant for **eligibility checking, document verification, OCR-based form understanding, multilingual guidance, and rejection prevention.**
 
-### **Random Quote Generator**
+**Tech:** React • Node.js • MongoDB • OCR • NLP
 
-• Built a dynamic quote generator web application using HTML, CSS, JavaScript, and REST APIs.
+---
 
-• Implemented API integration using fetch() and async/await to retrieve and display random quotes dynamically.
+## 💼 InternBridge
 
-• Improved understanding of asynchronous JavaScript, JSON handling, and DOM manipulation.
+An AI-powered internship matching platform featuring **AI recommendations, skill-gap analysis, learning roadmaps, and application tracking.**
 
-🔗 [Live Demo](https://random-quote-generator-pink-gamma.vercel.app/)
+**Tech:** React • Node.js • MongoDB • Python
 
+---
 
- ### **Certificate Name Checker**
+## 🎓 UniFind
 
-• Developed a Certificate Name Checker web application using HTML, CSS, JavaScript, and pdf.js.
+A full-stack college discovery and comparison platform with responsive UI and REST API integration.
 
-• Implemented browser-based PDF text extraction to validate user-entered names securely without server uploads.
+**Tech:** Next.js • Express.js • Tailwind CSS • REST APIs
 
-• Focused on lightweight performance, privacy, and responsive user interaction.
+---
 
-🔗 [Project Link](https://github.com/Dasari-Saniya/Certificate-Name-Checker)
+## 🚗 VehicleMart
 
+A responsive second-hand vehicle marketplace developed during my Web Development Internship.
 
-### **VehicleMart**
-
-• Developed a responsive second-hand vehicle marketplace platform using HTML, CSS, JavaScript, and Bootstrap.
-
-• Designed categorized vehicle listings, interactive UI components, and mobile-friendly layouts for improved usability.
-
-• Focused on responsive design and smooth user interaction across multiple devices and browsers.
-
-🔗 [Project Link](https://github.com/Dasari-Saniya/VehicleMart)
-
-
-### **GreenCart**
-
-• Built an eco-friendly shopping assistant web application promoting sustainable purchasing decisions.
-
-• Implemented product sustainability evaluation and greener alternative suggestions with reward-based interaction.
-
-• Developed using HTML, CSS, and JavaScript with focus on awareness-driven user experience.
-
-🔗 [Project Link](https://github.com/Dasari-Saniya/GreenCart)
+**Tech:** HTML • CSS • JavaScript • Bootstrap
 
 ---
 
