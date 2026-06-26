@@ -1,8 +1,10 @@
 ## 👋 Hi, I'm **DASARI SANIYA**
 
-## 📌 **About Me**
+### AI & Full-Stack Developer | Computer Science Student | Building Intelligent Solutions
 
-I'm **Dasari Saniya**, a **Computer Science & Engineering** student at **Aditya University** with a passion for coding and crafting innovative solutions. This profile showcases my projects, technical skills, and continuous learning journey in full-stack development and AI applications. Let’s dive in! 🚀
+I'm a final-year **B.Tech Computer Science Engineering** student at **Aditya University**, passionate about solving real-world problems through **Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development**.
+
+I enjoy transforming ideas into impactful software products—from AI-powered assistants to intelligent web applications. My goal is to build scalable technology while continuously improving my software engineering skills.
 
 ---
 
