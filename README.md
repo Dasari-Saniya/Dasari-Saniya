@@ -4,7 +4,7 @@
 
 I'm a final-year **B.Tech Computer Science Engineering** student at **Aditya University**, passionate about solving real-world problems through **Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development**.
 
-I enjoy transforming ideas into impactful software products—from AI-powered assistants to intelligent web applications. Currently focused on AI, Full-Stack Development, and building scalable software products for real-world impact.
+`I enjoy transforming ideas into impactful software products—from AI-powered assistants to intelligent web applications. Currently focused on AI, Full-Stack Development, and building scalable software products for real-world impact.`
 ---
 
 # 💻 Tech Stack
