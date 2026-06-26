@@ -4,7 +4,22 @@
 
 I'm a final-year **B.Tech Computer Science Engineering** student at **Aditya University**, passionate about solving real-world problems through **Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development**.
 
-`I enjoy transforming ideas into impactful software products—from AI-powered assistants to intelligent web applications. Currently focused on AI, Full-Stack Development, and building scalable software products for real-world impact.`
+I enjoy transforming ideas into impactful software products—from AI-powered assistants to intelligent web applications. My goal is to build scalable technology while continuously improving my software engineering skills.
+
+
+---
+
+
+## 🚀 About Me
+
+- 🎓 B.Tech Computer Science Engineering (CGPA: **9.37/10**)
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 💻 Full-Stack Web Developer
+- 🛰️ Developing an AI-based Satellite Image Change Detection system
+- 🌱 Building AI-powered products including **Saarthi AI** and **InternBridge**
+- 🧩 Solved **250+ DSA problems** across coding platforms
+- 🚀 Open to Software Engineering & AI Internship Opportunities
+
 ---
 
 # 💻 Tech Stack
@@ -18,18 +33,6 @@ I'm a final-year **B.Tech Computer Science Engineering** student at **Aditya Uni
 | **AI / ML** | PyTorch • Machine Learning • Deep Learning • Computer Vision • NLP |
 | **Developer Tools** | Git • GitHub • VS Code • Jupyter Notebook • Postman |
 
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech Computer Science Engineering (CGPA: **9.37/10**)
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 💻 Full-Stack Web Developer
-- 🛰️ Developing an AI-based Satellite Image Change Detection system
-- 🌱 Building AI-powered products including **Saarthi AI** and **InternBridge**
-- 🧩 Solved **250+ DSA problems** across coding platforms
-- 🚀 Open to Software Engineering & AI Internship Opportunities
 
 ---
 
