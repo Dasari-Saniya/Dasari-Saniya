@@ -6,19 +6,17 @@ I'm **Dasari Saniya**, a **Computer Science & Engineering** student at **Aditya 
 
 ---
 
-## 🚀 Skills & Interests:
+# 💻 Tech Stack
 
-• 💻 **Programming Languages:** Python, C, C++, Java
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python • Java • C++ • C |
+| **Frontend** | HTML5 • CSS3 • JavaScript • React • Next.js • Tailwind CSS |
+| **Backend** | Node.js • Express.js • REST APIs |
+| **Database** | MongoDB • MySQL |
+| **AI / ML** | PyTorch • Machine Learning • Deep Learning • Computer Vision • NLP |
+| **Developer Tools** | Git • GitHub • VS Code • Jupyter Notebook • Postman |
 
-• 📚 **Frameworks/Libraries:** HTML5, CSS3, JavaScript (ES6+), Next.js, Tailwind CSS, React.js
-
-• 🗄️ **Databases:** MySQL
-
-• 🛠️ **Developer Tools:** Git/GitHub, VS Code, Postman, Jupyter Notebook
-
-• 🎓 **Academic Coursework:** Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS
-
-• 🎯 **Interests:** Coding & Exploring New Tools, Continuous Learning, Solving Programming Challenges, Hackathons
 
 ---
 
