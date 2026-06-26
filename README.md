@@ -76,6 +76,18 @@ A responsive second-hand vehicle marketplace developed during my Web Development
 
 ---
 
+# 🏆 Competitive Programming
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-250%2B_Problems-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/saniyadasari645/)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-5★_Badges-2EC866?style=for-the-badge&logo=hackerrank)](YOUR_HACKERRANK_LINK)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks)](YOUR_GFG_LINK)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef)](YOUR_CODECHEF_LINK)
+
+---
+
 ## Connect with Me:
 
 • 📧 **Email:** [saniyadasari645@gmail.com](mailto:saniyadasari645@gmail.com)
