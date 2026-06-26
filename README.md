@@ -22,6 +22,18 @@ I enjoy transforming ideas into impactful software products—from AI-powered as
 
 ---
 
+## 🚀 About Me
+
+- 🎓 B.Tech Computer Science Engineering (CGPA: **9.37/10**)
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 💻 Full-Stack Web Developer
+- 🛰️ Developing an AI-based Satellite Image Change Detection system
+- 🌱 Building AI-powered products including **Saarthi AI** and **InternBridge**
+- 🧩 Solved **250+ DSA problems** across coding platforms
+- 🚀 Open to Software Engineering & AI Internship Opportunities
+
+---
+
 ## 🏆 Projects:
 
 ### **UniFind - College Discovery & Comparison Platform**
